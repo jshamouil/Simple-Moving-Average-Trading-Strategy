@@ -1,4 +1,4 @@
-# Simple-Moving-Average-Trading-Strategy
+# Simple Moving Average Trading Strategy
 
 ## Summary: 
 This notebook aims to give an introduction into writing an automated trading algorithm. This notebook uses Alpaca Markets and it's api to receive market data and execute trades. Also note that the 10 stocks chosen were chosen for no particular reason. I also make a few assumptions, my first assumption is that there already positions in the portfolio. My second assumption is that this strategy is run once a week, this could be done using cron tab.
